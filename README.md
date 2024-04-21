@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CSS-545-HW2
 
 Document that contains:
@@ -44,30 +43,3 @@ For showing this, I am entering my name in text box.. it will automatically show
 When we close the app and run again the flutter run, the name will be fetched from user preference setting(SharedPreferences: key value pair)
 
 <img width="380" alt="image" src="https://github.com/shristiUW/CSS-545-HW2/assets/148150150/d2a9c6fa-1ddc-4171-a680-00e8e0e4112f">
-
-
-
-
-
-
-
-
-
-=======
-# basic_storage_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 171516d (Initial commit)
