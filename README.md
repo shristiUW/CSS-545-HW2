@@ -29,7 +29,7 @@ Remote Storage Options
 ●	Description: For storing files like images, videos, and large datasets.
 ●	Pros: Offloads heavy data handling from devices; scalable storage capacity; robust data management and security.
 ●	Cons: Requires robust internet connection for uploads and downloads; implementation complexity; potential latency in data access.
-Document : HW2Assignment
+Document : HW2Assignment (https://github.com/shristiUW/CSS-545-HW2/blob/main/HW2Assignment.docx)
 
 App that demonstrates:
 (5 Points) Store AND Load a media item locally (e.g. music, video, image)
