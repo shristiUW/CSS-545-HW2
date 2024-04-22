@@ -5,9 +5,12 @@ Document that contains:
 (5 Points) Pros AND cons of each approach for your project
 
 
-Document on Cross-Platform Storage Management Approaches in Flutter
+Document on Cross-Platform Storage Management Approaches in Flutter:
+
+
 I have chosen Flutter to develop the project. Flutter supports several data storage options, suitable for different types of applications and data needs. My application is cross-platform and works across the iOS, macOS and Android platforms. Accordingly, here are the approaches for cross-platform storage management in Flutter:
-Local Storage Options
+Local Storage Options.
+
 1.	Shared Preferences
 ●	Description: This plugin wraps platform-specific persistent storage for simple data (key-value pairs). It is ideal for saving user preferences or settings.
 ●	Pros: Easy to implement; automatically abstracts platform differences; synchronizes data across app instances.
